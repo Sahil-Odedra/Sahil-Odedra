@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hello, I am Sahil Odedra</h1>
 
-<!--
-**Sahil-Odedra/Sahil-Odedra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 Student at Nirma University &nbsp;|&nbsp; 💻 Tech Enthusiast &nbsp;|&nbsp; 📬 sahilodedra26@gmail.com
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<table align="center">
+  <tr>
+    <!-- Tech Stack Section -->
+    <td align="center" width="350px">
+      <h3>💻 Tech Stack</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=cpp" width="40" />
+        <img src="https://skillicons.dev/icons?i=python" width="40" />
+        <img src="https://skillicons.dev/icons?i=java" width="40" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=nodejs" width="40" />
+        <img src="https://skillicons.dev/icons?i=html" width="40" />
+        <img src="https://skillicons.dev/icons?i=css" width="40" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=php" width="40" />
+        <img src="https://skillicons.dev/icons?i=mongodb" width="40" />
+        <img src="https://skillicons.dev/icons?i=mysql" width="40" />
+      </p>
+    </td>
+    <td align="center" width="400px">
+      <h3>🏆 LeetCode Stats</h3>
+      <img
+        src="https://leetcard.jacoblin.cool/Sahil-Odedra?theme=dark&font=baloo" 
+        alt="LeetCode Stats"
+        width="480px"
+      />
+    </td>
+  </tr>
+</table>
+
+## 🚀 Featured Projects
+
+- 🔗 [Cameraman Booking System](https://github.com/Sahil-Odedra/Cameraman-booking) – Full-stack Flask application with photographer booking system, automated confirmations, and Docker containerization for portable deployment.
+
+---
+
+⭐️ If you like what I do, give me a star or connect on LinkedIn!
