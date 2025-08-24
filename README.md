@@ -3,9 +3,9 @@
 <p align="center">
   🎓 Student at Nirma University &nbsp;|&nbsp; 💻 Tech Enthusiast &nbsp;|&nbsp; 📬 sahilodedra26@gmail.com
   <br>
-  LinkedIn : <a href https://www.linkedin.com/in/sahil-odedra>Sahil-Odedra</a>
+  LinkedIn : <a href="https://www.linkedin.com/in/sahil-odedra">Sahil-Odedra</a>
   <br>
-  LeetCode : <a href https://leetcode.com/u/Sahil-Odedra/>Sahil-Odedra</a>
+  LeetCode : <a href="https://leetcode.com/u/Sahil-Odedra">Sahil-Odedra</a>
 </p>
 
 
