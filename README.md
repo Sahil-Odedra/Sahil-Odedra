@@ -47,4 +47,4 @@
 
 ---
 
-⭐️ If you like what I do, give me a star or connect on LinkedIn!
+⭐️ If you like what I do, please consider giving a star.
